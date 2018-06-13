@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">WeatherAndroidApp</string>
+    <string name="action_settings">Kelvin</string>
+    <string name="action_fahrenheit">Fahrenheit</string>
+    <string name="action_celsius">Celsius</string>
 </resources>

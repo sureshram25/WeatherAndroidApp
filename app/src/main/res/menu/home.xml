@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_celsius"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/action_celsius"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_fahrenheit"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/action_fahrenheit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_default"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+
+</menu>
